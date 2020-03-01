@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gary-kim/github-app-test-repo/issues"
   },
-  "homepage": "https://github.com/gary-kim/github-app-test-repo#readme"
+  "homepage": "https://github.com/gary-kim/github-app-test-repo#readme",
+  "dependencies": {
+    "get-in-range": "^0.2.4"
+  }
 }
