@@ -1,0 +1,19 @@
+{
+  "name": "github-app-test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "head /dev/urandom | tr -dc A-Za-z0-9 | head -c 8 > testfile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gary-kim/github-app-test-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gary-kim/github-app-test-repo/issues"
+  },
+  "homepage": "https://github.com/gary-kim/github-app-test-repo#readme"
+}
